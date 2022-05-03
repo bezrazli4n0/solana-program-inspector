@@ -1,0 +1,2 @@
+# solana-program-inspector
+Main purpose of this utility is to provide additional information about Solana programs. Currently this display deployment slot & block time(in unix timestamp), but also it's possible to display binary metadata and some extensions. In development.
